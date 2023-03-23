@@ -13,7 +13,7 @@ https://bhargav-sai-1304.netlify.app/index.html
 
 Here in this app you can search your desired Marvel superheroes and villians , you can add them to favourites list also.
 
-I Have used the <a href=""> Marvel superhero api </a>for json data.
+I Have used the <b> Marvel superhero api </b>for json data.
 
 I have used Javascript here with these methods named below
 * fetch url
