@@ -1,6 +1,6 @@
 ﻿# SuperHero-Hunter
 Host Link : 
-https://piyush-1871.github.io/SuperHero-Hunter/
+https://bhargav-sai-1304.netlify.app/index.html
 
 Here in this app you can search your desired Marvel superheroes and villians , you can add them to favourites list also.
 
