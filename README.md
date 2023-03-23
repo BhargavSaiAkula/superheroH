@@ -1,6 +1,7 @@
 ﻿# SuperHero-Hunter
 Host Link : 
 https://bhargav-sai-1304.netlify.app/index.html
+![Screenshot (9146)](https://github.com/BhargavSaiAkula/AlarmClock-html-css-js/blob/main/Screenshot%20clock.png)
 
 Here in this app you can search your desired Marvel superheroes and villians , you can add them to favourites list also.
 
